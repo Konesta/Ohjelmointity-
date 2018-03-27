@@ -1,0 +1,7 @@
+D:\ITKP104\HTTPAsiakas\HTTPAsiakas\bin\Debug\HTTPAsiakas.exe.config
+D:\ITKP104\HTTPAsiakas\HTTPAsiakas\bin\Debug\HTTPAsiakas.exe
+D:\ITKP104\HTTPAsiakas\HTTPAsiakas\bin\Debug\HTTPAsiakas.pdb
+D:\ITKP104\HTTPAsiakas\HTTPAsiakas\obj\Debug\HTTPAsiakas.csprojResolveAssemblyReference.cache
+D:\ITKP104\HTTPAsiakas\HTTPAsiakas\obj\Debug\HTTPAsiakas.csproj.CoreCompileInputs.cache
+D:\ITKP104\HTTPAsiakas\HTTPAsiakas\obj\Debug\HTTPAsiakas.exe
+D:\ITKP104\HTTPAsiakas\HTTPAsiakas\obj\Debug\HTTPAsiakas.pdb

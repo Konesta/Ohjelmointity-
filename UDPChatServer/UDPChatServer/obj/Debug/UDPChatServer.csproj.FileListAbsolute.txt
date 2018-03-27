@@ -1,0 +1,7 @@
+D:\ITKP104\UDPChatServer\UDPChatServer\bin\Debug\UDPChatServer.exe.config
+D:\ITKP104\UDPChatServer\UDPChatServer\bin\Debug\UDPChatServer.exe
+D:\ITKP104\UDPChatServer\UDPChatServer\bin\Debug\UDPChatServer.pdb
+D:\ITKP104\UDPChatServer\UDPChatServer\obj\Debug\UDPChatServer.csprojResolveAssemblyReference.cache
+D:\ITKP104\UDPChatServer\UDPChatServer\obj\Debug\UDPChatServer.csproj.CoreCompileInputs.cache
+D:\ITKP104\UDPChatServer\UDPChatServer\obj\Debug\UDPChatServer.exe
+D:\ITKP104\UDPChatServer\UDPChatServer\obj\Debug\UDPChatServer.pdb

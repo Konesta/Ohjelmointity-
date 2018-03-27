@@ -1,0 +1,7 @@
+D:\ITKP104\TCPPalvelin\TCPPalvelin\bin\Debug\TCPPalvelin.exe.config
+D:\ITKP104\TCPPalvelin\TCPPalvelin\bin\Debug\TCPPalvelin.exe
+D:\ITKP104\TCPPalvelin\TCPPalvelin\bin\Debug\TCPPalvelin.pdb
+D:\ITKP104\TCPPalvelin\TCPPalvelin\obj\Debug\TCPPalvelin.csproj.CoreCompileInputs.cache
+D:\ITKP104\TCPPalvelin\TCPPalvelin\obj\Debug\TCPPalvelin.exe
+D:\ITKP104\TCPPalvelin\TCPPalvelin\obj\Debug\TCPPalvelin.pdb
+D:\ITKP104\TCPPalvelin\TCPPalvelin\obj\Debug\TCPPalvelin.csprojResolveAssemblyReference.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPPalvelin", "TCPPalvelin\TCPPalvelin.csproj", "{FBB59460-8B69-4CA1-895C-F42C4B93407C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBB59460-8B69-4CA1-895C-F42C4B93407C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBB59460-8B69-4CA1-895C-F42C4B93407C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBB59460-8B69-4CA1-895C-F42C4B93407C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBB59460-8B69-4CA1-895C-F42C4B93407C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {250CE258-80BC-4C40-B963-8813362ECBB5}
+	EndGlobalSection
+EndGlobal

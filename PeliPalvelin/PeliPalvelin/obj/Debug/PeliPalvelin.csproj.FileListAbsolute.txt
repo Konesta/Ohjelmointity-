@@ -1,0 +1,7 @@
+D:\ITKP104\PeliPalvelin\PeliPalvelin\bin\Debug\PeliPalvelin.exe.config
+D:\ITKP104\PeliPalvelin\PeliPalvelin\bin\Debug\PeliPalvelin.exe
+D:\ITKP104\PeliPalvelin\PeliPalvelin\bin\Debug\PeliPalvelin.pdb
+D:\ITKP104\PeliPalvelin\PeliPalvelin\obj\Debug\PeliPalvelin.csprojResolveAssemblyReference.cache
+D:\ITKP104\PeliPalvelin\PeliPalvelin\obj\Debug\PeliPalvelin.csproj.CoreCompileInputs.cache
+D:\ITKP104\PeliPalvelin\PeliPalvelin\obj\Debug\PeliPalvelin.exe
+D:\ITKP104\PeliPalvelin\PeliPalvelin\obj\Debug\PeliPalvelin.pdb

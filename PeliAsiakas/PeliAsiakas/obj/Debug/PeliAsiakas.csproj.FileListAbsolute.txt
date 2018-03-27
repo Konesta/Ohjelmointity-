@@ -1,0 +1,7 @@
+D:\ITKP104\PeliAsiakas\PeliAsiakas\bin\Debug\PeliAsiakas.exe.config
+D:\ITKP104\PeliAsiakas\PeliAsiakas\bin\Debug\PeliAsiakas.exe
+D:\ITKP104\PeliAsiakas\PeliAsiakas\bin\Debug\PeliAsiakas.pdb
+D:\ITKP104\PeliAsiakas\PeliAsiakas\obj\Debug\PeliAsiakas.csprojResolveAssemblyReference.cache
+D:\ITKP104\PeliAsiakas\PeliAsiakas\obj\Debug\PeliAsiakas.csproj.CoreCompileInputs.cache
+D:\ITKP104\PeliAsiakas\PeliAsiakas\obj\Debug\PeliAsiakas.exe
+D:\ITKP104\PeliAsiakas\PeliAsiakas\obj\Debug\PeliAsiakas.pdb

@@ -1,0 +1,7 @@
+D:\ITKP104\SMTPClientti\SMTPClientti\bin\Debug\SMTPClientti.exe.config
+D:\ITKP104\SMTPClientti\SMTPClientti\bin\Debug\SMTPClientti.exe
+D:\ITKP104\SMTPClientti\SMTPClientti\bin\Debug\SMTPClientti.pdb
+D:\ITKP104\SMTPClientti\SMTPClientti\obj\Debug\SMTPClientti.csprojResolveAssemblyReference.cache
+D:\ITKP104\SMTPClientti\SMTPClientti\obj\Debug\SMTPClientti.csproj.CoreCompileInputs.cache
+D:\ITKP104\SMTPClientti\SMTPClientti\obj\Debug\SMTPClientti.exe
+D:\ITKP104\SMTPClientti\SMTPClientti\obj\Debug\SMTPClientti.pdb
